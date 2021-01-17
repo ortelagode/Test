@@ -9,6 +9,8 @@ import java.util.Scanner;
 public class AlTctArrayhomework_2 {
 
     
+
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
